@@ -9,6 +9,8 @@ export function Profile() {
         src="https://github.com/migueelzz.png"
         className="h-10 w-10 rounded-full"
         alt=""
+        width={40}
+        height={40}
       />
       <div className="flex flex-1 flex-col truncate">
         <span className="text-sm font-semibold text-zinc-700 dark:text-zinc-100">
